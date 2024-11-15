@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31400994-a53d-4654-8254-4540fbf07e29" width="100" alt="Logo"/><br/>
+  <img src="https://github.com/user-attachments/assets/ba61ed9f-6689-4cce-8e00-2611bc44bf33" width="100" alt="Logo"/><br/>
   <h4 align="center"><strong><code>Fificons</code></strong> - An aesthetic icons font for developers</h4>
 </p>
 
