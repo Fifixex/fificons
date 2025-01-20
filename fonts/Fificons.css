@@ -1,0 +1,91 @@
+@font-face {
+    font-family: "Fificons";
+    src: url("./Fificons.eot?5537867d652f4f6c169d779dca57d68a#iefix") format("embedded-opentype"),
+url("./Fificons.ttf?5537867d652f4f6c169d779dca57d68a") format("truetype"),
+url("./Fificons.woff?5537867d652f4f6c169d779dca57d68a") format("woff"),
+url("./Fificons.woff2?5537867d652f4f6c169d779dca57d68a") format("woff2");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: Fificons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zig:before {
+    content: "\f101";
+}
+.icon-vite:before {
+    content: "\f102";
+}
+.icon-vercel:before {
+    content: "\f103";
+}
+.icon-typescript:before {
+    content: "\f104";
+}
+.icon-tailwind:before {
+    content: "\f105";
+}
+.icon-svelte:before {
+    content: "\f106";
+}
+.icon-rust:before {
+    content: "\f107";
+}
+.icon-pnpm:before {
+    content: "\f108";
+}
+.icon-pnpm-lock:before {
+    content: "\f109";
+}
+.icon-node:before {
+    content: "\f10a";
+}
+.icon-next:before {
+    content: "\f10b";
+}
+.icon-markdown:before {
+    content: "\f10c";
+}
+.icon-javascript:before {
+    content: "\f10d";
+}
+.icon-html:before {
+    content: "\f10e";
+}
+.icon-git:before {
+    content: "\f10f";
+}
+.icon-dotenv:before {
+    content: "\f110";
+}
+.icon-deno:before {
+    content: "\f111";
+}
+.icon-css:before {
+    content: "\f112";
+}
+.icon-cargo:before {
+    content: "\f113";
+}
+.icon-cargo-lock:before {
+    content: "\f114";
+}
+.icon-bun:before {
+    content: "\f115";
+}
+.icon-bun-lock:before {
+    content: "\f116";
+}
+.icon-bash:before {
+    content: "\f117";
+}
+.icon-astro:before {
+    content: "\f118";
+}
