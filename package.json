@@ -1,6 +1,10 @@
 {
     "version": "1.0.0",
 	"type": "module",
+    "scripts": {
+        "format": "biome format --write .",
+        "build": "node scripts/build.js"
+    },
 	"dependencies": {},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
